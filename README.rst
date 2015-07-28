@@ -10,8 +10,8 @@ Running
 -------
 First, index some logs. For example:
 
-./index.py musicbrainz-devel
+    ./index.py musicbrainz-devel
 
 Then, another example, to search the indexed logs for "Brainz":
 
-./search.py musicbrainz-devel Brainz
+    ./search.py musicbrainz-devel Brainz
